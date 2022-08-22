@@ -9,6 +9,7 @@ body{
 }
 nav{
     font-family: 'Noto Sans', sans-serif;
+    height: 5rem;
 }
 
 nav img{
@@ -24,7 +25,7 @@ nav ul{
     justify-content: space-evenly;
     list-style-type: none;
     font-weight: bolder;
-    height: 80px;
+    height: 5rem;
 }
 nav ul a{
   color: white;

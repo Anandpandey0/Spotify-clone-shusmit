@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    border: solid 2px black;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: larger;
+    height: 5rem;
+    align-items: center;
+    flex-wrap: nowrap   ;
+    width: 100vw;
+    overflow: hidden;
+}
+.logo{
+    border: solid 2px red;
+    margin-left: 2rem;
+}
+a{
+    text-decoration: none;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: black;
+    /* margin: 2rem 0rem; */
+
+}
+.navbar-items{
+    border: solid 2px black;
+    float: right;
+    /* flex-direction: row; */
+    justify-content: space-evenly;
+    /* margin-right: 2rem; */
+}
